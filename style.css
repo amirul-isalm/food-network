@@ -65,3 +65,36 @@ h2{
 #male-photo{
     padding-bottom: 0%;
 }
+.third-section{
+    text-align: center;
+padding: 30px 120px;
+}
+.fourth-section{
+    width: 100%;
+    padding: 0 8%;
+    display: flex;
+
+}
+.one-third{
+    width: 21%;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 10px 10px 20px rgb(41, 37, 37);
+    padding: 20px;
+    margin: 0% 2%;
+
+}
+.last-image{
+    padding: auto;
+
+
+}
+.last-image img{
+    width: 100%;
+    border-radius: 20px;
+    height: 250px;
+    
+}
+.recipie{
+    color: black;
+}
