@@ -15,7 +15,7 @@ text-align: center;
 .orange-color{
     color: orange;
 }
-#big-text{
+.big-text{
     font-size: 70px;
 }
 
@@ -73,14 +73,15 @@ padding: 30px 120px;
     width: 100%;
     padding: 0 8%;
     display: flex;
+    margin-bottom: 50px;
 
 }
 .one-third{
-    width: 21%;
+    width: 22%;
     text-align: center;
-    border-radius: 30px;
-    box-shadow: 10px 10px 20px rgb(41, 37, 37);
-    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(41, 37, 37);
+    padding:15px;
     margin: 0% 2%;
 
 }
@@ -95,6 +96,65 @@ padding: 30px 120px;
     height: 250px;
     
 }
+.fifth-section{
+    width: 80%;
+   border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(41, 37, 37);
+display: flex;
+margin: auto;
+margin-bottom: 70px;
+
+
+}
+
+
 .recipie{
     color: black;
+}
+.like-count{
+font-size: 50px;
+padding: 0;
+margin: 0;
+
+}
+.count-div{
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 40P;
+
+
+}
+footer{
+text-align: center;
+width: 100%;
+height: 100px;
+background-color: black;
+color: tomato;
+padding-top: 30px;
+padding-bottom: 50px;
+
+}
+footer h1 span{
+
+color: orange;
+
+}
+footer p{ font-size: 25px;
+    color: cyan;
+
+}
+
+.review h1{
+    padding: 0;
+    margin: 0;
+
+}
+.review{
+text-align: center;
+    width: 80%;
+    margin: 20px auto 40px;
+    border-radius: 20px;
+box-shadow: 5px 5px 20px rgb(41, 37, 37); ;
+
 }
